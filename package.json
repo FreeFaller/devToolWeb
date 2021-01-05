@@ -8,7 +8,7 @@
   },
   "author": "",
   "dependencies": {
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "clipboard": "^2.0.4",
     "highlight.js": "^9.15.10",
     "view-design": "^4.0.2",
